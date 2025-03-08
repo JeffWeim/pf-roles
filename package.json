@@ -11,18 +11,18 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@notionhq/client": "^2.2.16",
-    "axios": "^1.8.2",
+    "@notionhq/client": "2.2.16",
+    "axios": "1.8.2",
     "cors": "2.8.5",
     "dotenv": "16.4.7",
     "express": "4.21.2",
-    "playwright": "^1.51.0",
-    "xml2js": "^0.6.2"
+    "playwright": "1.51.0",
+    "xml2js": "0.6.2"
   },
   "devDependencies": {
     "@types/express": "5.0.0",
     "@types/node": "16.11.7",
-    "@types/xml2js": "^0.4.14",
+    "@types/xml2js": "0.4.14",
     "ts-node-dev": "2.0.0",
     "typescript": "5.8.2"
   }
